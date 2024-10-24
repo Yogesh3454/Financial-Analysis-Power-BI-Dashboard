@@ -32,13 +32,14 @@ Here are some screenshots of the Power BI dashboard:
 
 ![Sales by Year and Month](https://github.com/Yogesh3454/Financial-Analysis-Power-BI-Dashboard/blob/1aed149532d87c97d1095c9b4c4a5439f7a437b8/Sales%20by%20year%20and%20month.png)
 
+![Profit Margin by Country](https://github.com/Yogesh3454/Financial-Analysis-Power-BI-Dashboard/blob/main/Profit%20margin%20by%20country.png)
 
-Profit Margin by Country
+![Orders by Country](https://github.com/Yogesh3454/Financial-Analysis-Power-BI-Dashboard/blob/main/Orders%20by%20country.png)
 
-Orders by Country
 
 ## **Full Report**
-You can view the full financial analysis report here: Finance_Project.pdf
+You can view the full financial analysis report here:
+![Orders by Country](https://github.com/Yogesh3454/Financial-Analysis-Power-BI-Dashboard/blob/main/Full%20Report.png)
 
 ## **Tools Used**
 - **Power BI Desktop:** For creating dashboards and visualizations.
@@ -49,7 +50,7 @@ This dashboard provides a comprehensive financial overview that enables business
 
 ## **How to Run**
 Clone the repository:
-git clone https://github.com/username/repository-name.git
+git clone https://github.com/Yogesh3454/Financial-Analysis-Power-BI-Dashboard.git
 
 Open the .pbix file in Power BI Desktop.
 Review and customize the dashboard based on your dataset.
