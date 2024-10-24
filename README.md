@@ -31,7 +31,7 @@ The dashboard provides insights into key financial metrics such as **sales**, **
 
 The dataset used in this analysis is available in this repository. You can download it using the link below:
 
-- [Download the dataset](path/to/dataset.csv)
+- [Download the dataset](https://github.com/Yogesh3454/Financial-Analysis-Power-BI-Dashboard/blob/main/Dataset.xlsx))
 
 ## **Screenshots**
 Here are some screenshots of the Power BI dashboard:
