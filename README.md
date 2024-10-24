@@ -1,8 +1,8 @@
 # **Financial Analysis Report - Power BI Project**
 ## **Overview**
-This project is a comprehensive Financial Analysis Report built using Power BI. The objective of this analysis is to visualize and compare the financial performance of sales and profits across different countries, segments, and product categories for a selected period.
+This project is a comprehensive **Financial Analysis Report** built using **Power BI**. The objective of this analysis is to visualize and compare the financial performance of **sales** and **profits** across different **countries**, **segments**, and **product categories** for a selected period.
 
-The dashboard provides insights into key financial metrics such as sales, profit margins, orders, discounts, and product performance. These insights enable better decision-making for businesses to understand their financial health and optimize their strategies for future growth.
+The dashboard provides insights into key financial metrics such as **sales**, **profit margins**, **orders**, **discounts**, and **product performance**. These insights enable better decision-making for businesses to understand their financial health and optimize their strategies for future growth.
 
 ## **Key Features**
 - **Sales Performance:** Visualization of current vs prior year sales growth with key highlights.
@@ -26,6 +26,12 @@ The dashboard provides insights into key financial metrics such as sales, profit
 - **Orders by Country:** Visualizes the distribution of orders across different countries.
 - **Top 3 Products by Sales:** Identifies the best-performing products in terms of sales.
 - **Discount Analysis:** Understand the impact of discounts across different categories.
+
+## **Dataset**
+
+The dataset used in this analysis is available in this repository. You can download it using the link below:
+
+- [Download the dataset](path/to/dataset.csv)
 
 ## **Screenshots**
 Here are some screenshots of the Power BI dashboard:
