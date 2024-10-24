@@ -30,7 +30,8 @@ The dashboard provides insights into key financial metrics such as sales, profit
 ## **Screenshots**
 Here are some screenshots of the Power BI dashboard:
 
-Sales by Year and Month
+![Sales by Year and Month]([https://github.com/Yogesh3454/Financial-Analysis-Power-BI-Dashboard/blob/main/Sales%20by%20year%20and%20month.png])
+
 
 Profit Margin by Country
 
